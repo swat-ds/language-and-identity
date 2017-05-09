@@ -1,6 +1,5 @@
 ---
 modified: '2017-05-03 13:16 -0400'
-author: group5
 layout: article
 published: true
 image_teaser: '../images/gallery-thumb.jpg'

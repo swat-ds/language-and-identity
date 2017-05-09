@@ -1,6 +1,5 @@
 ---
 modified: '2017-05-03 13:22 -0400'
-author: group5
 layout: article
 published: true
 image_teaser: 'images/record-store-thumb.jpg'
@@ -50,7 +49,6 @@ There exists a top-down framework of the socially justified racial inequality in
 
 <span class="soundcite" data-url="{{ site.audio }}Rosalyn.mp3" data-start="1134000" data-end="1154000" data-plays="1"> Spanish language race terms </span>: *blanco, pardo, mestizo, indio, güera, criollo, negrita,* <span class="soundcite" data-url="{{ site.audio }}Me_Gritaron_Negra.mp3" data-start="148000" data-end="160000" data-plays="1">*negro*</span> *, moreno, mulatto,* *rubia*
 
-
 *Racialization*: process of imposing racial identities/stereotypes on a person based on their perceived phenotypical race.
 
 *Blanqueamiento & mejoramiento*: Translated directly as “whitening” and “improvement”, in a social and political Latin American context these terms mean whitening phenotypes through racial intermarriage and consequently achieving higher social status within the family lineage
@@ -58,6 +56,5 @@ There exists a top-down framework of the socially justified racial inequality in
 *Latinegra*: identity term encompassing *Latinidad*, Blackness, Womxnhood, and Spanish-speaking
 
 *Arturo A. Schomburg Symposium*: Premiering in 1996, an annual conference  hosted at Taller Puertorriqueño is devoted to the discussion of <span class="soundcite" data-url="{{ site.audio }}Evelynne_the_erasure_issue_at_stake.mp3" data-start="00000" data-end="12000" data-plays="1"> African presence in Latinx cultural histories.</span>
-
 
 *Raciolinguistics*: an approach to understanding language and race as intertwined, and contributing to social behaviors. Beliefs of race manifest in language, and language is used to construct ideas of race.
