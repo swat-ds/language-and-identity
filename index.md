@@ -7,7 +7,7 @@ image_banner: images/banner.jpg
 
 <div class="tiles">
 
-{% for post in site.posts %}
+{% for post in site.posts reversed %}
 {% include post-grid.html %}
 {% endfor %}
 
