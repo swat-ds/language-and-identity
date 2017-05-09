@@ -24,7 +24,7 @@ This episode discusses the consequences of the rhetoric of racial mixture in Lat
 
 ![Mural in El Bloque de Oro of different Latin American flags strewn together]({{site.url}}/images/20170213_160538.jpg)
 
-![Mural in El Centro de Oro ]({{site.url}}/images/File_002.jpeg)
+![Mural in El Centro de Oro ]({{site.url}}/images/file_002.jpg)
 
 #### Further Context
 

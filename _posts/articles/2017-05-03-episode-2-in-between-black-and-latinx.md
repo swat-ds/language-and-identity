@@ -20,7 +20,7 @@ In the format of a live discussion, we present excerpts from our interviews and 
 
 ![Taller Puertorriqueño mural down the block from Taller Puertorriqueño]({{site.url}}/images/20170213_160747.jpg)
 
-![Art Gallery Tour at Taller PR]({{site.url}}/images/File_001.jpeg)
+![Art Gallery Tour at Taller PR]({{site.url}}/images/file_001.jpg)
 
 #### Further Context 
 
