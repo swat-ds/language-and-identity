@@ -71,6 +71,8 @@ Swarthmore College, Class of 2020, Black Studies concentration
 
 Special thanks to Nabil Kashyap and Roberto Vargas of Swarthmore College Libraries and John Word of the Language and Media Center
 
+<hr/>
+
 #### Bibliography – Further Reading
 Afro-Mexicans: Discourse of Race and Identity in the African Diaspora
 Chege Githiora
