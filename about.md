@@ -72,6 +72,5 @@ Swarthmore College, Class of 2020, Black Studies concentration
 Special thanks to Nabil Kashyap and Roberto Vargas of Swarthmore College Libraries and John Word of the Language and Media Center
 
 ![swarthmore libraries logo](../images/logo-mccabe-web.png)
-![Swarthmore College Language and Media Centers](../images/lmc.png)
 
 <hr/>
