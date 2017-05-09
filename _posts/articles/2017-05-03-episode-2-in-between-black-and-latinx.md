@@ -2,7 +2,7 @@
 modified: '2017-05-03 13:16 -0400'
 layout: article
 published: true
-image_teaser: '../images/gallery-thumb.jpg'
+image_teaser: 'images/gallery-thumb.jpg'
 title: 'Episode 2: In Between Black and Latinx'
 ---
 > “I battled it, battled it, battled it, until at some point I realized… that I could be Black and I could be Dominican.” - Angelo
