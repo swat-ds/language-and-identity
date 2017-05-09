@@ -87,10 +87,19 @@ div.tiles {
 }
 
 article.tile {
+  background-image: -webkit-linear-gradient(top, rgba(16, 153, 255, 0.7), rgba(255, 252, 179, 0.7));
   display: block;
   height: 250px;
   width: 250px;
   margin: unset;
+  margin-right: 1em;
+}
+
+article.tile a {
+
+  height: 250px;
+  width: 250px;
+  background: rgba(0,0,0,.3);
 }
 
 article.tile a.post-teaser {
@@ -101,7 +110,10 @@ article.tile a.post-teaser {
   width: 100%;
 
   & h2 {
-    text-align: center;
+    display: block;
+    padding-left: 1em;
+    color: rgba(255,255,255,.75);
+    background-color: rgba(0,0,0,.6);
   }
 
   &:hover h2.post-title{
