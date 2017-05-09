@@ -71,6 +71,44 @@ Swarthmore College, Class of 2020, Black Studies concentration
 
 Special thanks to Nabil Kashyap and Roberto Vargas of Swarthmore College Libraries and John Word of the Language and Media Center
 
+#### Bibliography – Further Reading
+Afro-Mexicans: Discourse of Race and Identity in the African Diaspora
+Chege Githiora
+Africo World Press, Inc.  (2008)
+
+Chocolate and Corn Flour: History, Race, and Place in the Making of “Black” Mexico
+Laura A. Lewis
+Duke University Press (2012)
+
+Exposing Prejudice: Puerto Rican Experiences of Language, Race, and Class 
+Bonnie Urciuoli
+Westview Press ( 1998)
+
+“Language, Identity, and the Ownership of English”
+Bonny Norton 
+TESOL Quarterly, Vol. 31, No. 3, Language and Identity 
+Teachers of English to Speakers of Other Languages, Inc. (1997)
+
+“Latinegras: Desired Women  - Undesirable Mothers, Daughters, Sisters, and Wives” 
+Marta I. Cruz-Janzen
+Frontiers: A Journal of Women Studies Vol. 22, No. 3, Women's West 
+University of Nebraska Press (2001)
+
+““Ni de qui, ni de allá”: Garífuna Subjectivities and the Politics of Diasporic Belonging”
+Paul Joseph López Oro
+Chapter 3 of  Afro-Latin@s in Movement: Critical Approaches to Blackness and Transnationalism in the Americas 
+Palgrave Macmillan (2016)
+
+Raciolinguistics: How Language Shapes Our Ideas About Race 
+H. Samy Alim, John R. Rickford, and Arnetha F. Ball
+Oxford University Press (2016)
+
+“The Race Problem in Latin America” 
+José Vasconcelos 
+Chapter 3 in The Prophet of Race
+Rutgers University Press (2011)
+
+
 ![swarthmore libraries logo](../images/logo-mccabe-web.png)
 
 <hr/>
