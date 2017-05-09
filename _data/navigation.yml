@@ -1,0 +1,11 @@
+# Site navigation links
+
+- title: about
+  url: /about/
+  excerpt:
+  image:
+- title: 1
+  author: group1
+  url: /test-article/
+  excerpt: "Studs Terkel"
+  image:
