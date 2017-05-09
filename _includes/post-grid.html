@@ -1,5 +1,3 @@
-<article class="tile" itemscope itemtype="http://schema.org/Article">
-
 <!-- fallback background image -->
 
     {% if post.image_teaser %}
@@ -7,6 +5,9 @@
     {% else %}
         {% assign background = site.teaser %}
     {% endif %}
+
+
+<article class="tile" itemscope itemtype="http://schema.org/Article" style="background-image:url('../{{ background }}')">
 
     {% if post.soundcloud_id %}
 
