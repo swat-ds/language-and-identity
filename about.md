@@ -5,7 +5,7 @@ title: about
 image_banner: images/banner.jpg
 ---
 
-![group photo of class](../images/group.jpg)
+![group photo of class](../images/bio.jpg)
 
 <hr/>
 
