@@ -1,11 +1,10 @@
 ---
 modified: '2017-05-03 13:22 -0400'
+author: group5
 layout: article
 published: true
 title: Language Bank
 ---
-
-*Arturo A. Schomburg Symposium*: Premiering in 1996, an annual conference  hosted at Taller Puertorriqueño is devoted to the discussion of <span class="soundcite" data-url="{{ site.audio }}Evelynne_the_erasure_issue_at_stake.mp3" data-start="00000" data-end="12000" data-plays="1"> African presence in Latinx cultural histories. </span>
 
 *Arturo A. Schomburg Symposium*: Premiering in 1996, an annual conference  hosted at Taller Puertorriqueño is devoted to the discussion of <span class="soundcite" data-url="{{ site.audio }}Evelynne_the_erasure_issue_at_stake.mp3" data-start="00000" data-end="12000" data-plays="1"> African presence in Latinx cultural histories.</span>
 
