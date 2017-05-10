@@ -42,46 +42,20 @@ a.footnote {
     font-size: 1.3em;
 }
 
-.sliding-menu-content li{
-  height: 150px;
-}
-
-.sliding-menu-content li img.teaser{
-  height: 100%;
-}
-
-.sliding-menu-content .menu-item li a .excerpt-authors{
-  margin-top: 0;
-      margin-left: 60px;
-      @include font-size(14,no);
-      @include media($small) {
-        margin-left: 170px;
-        font-size: 0.8em;
-      }
-}
-
 .title .post-teaser a:link {
   text-decoration: none;
-}
- /* article.tile {
- border-bottom: 1px solid $black;
-} */
-
-.home p, 
-.home hr, 
-.about p, 
-.about hr,
-.about h4,
-.about ul {
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 960px;
 }
 
 .home p, 
 .home hr{
   font-size: 24px;
   line-height: 32px;
+}
+
+.inner-wrap {  
+  @include media($medium){
+    margin-left: 8.5%;
+  }
 }
 
 .about p, 
@@ -144,11 +118,4 @@ article.tile a.post-teaser {
 
 article.tile iframe {
   float: left;
-}
-
-.tile .author-name {
-  font-size: 1em;
-  color: lighten($text-color,25);
-  min-height: 2.5em;
-  text-align: center;
 }

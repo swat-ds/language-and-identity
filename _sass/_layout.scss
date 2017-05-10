@@ -144,8 +144,9 @@
 
 #main {
 	.inner-wrap {
+
 		@include media($medium) {
-			@include span-columns(9);
+			@include span-columns(10);
 		}
 	}
 	.page-title {
