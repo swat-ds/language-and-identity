@@ -25,11 +25,10 @@ Please contact <span class="rtl">ude.eromhtraws&#64;6samohtj</span> for more inf
 
 Students name their own identities.
 
-- **Arya Cheng**
+- **Arya Cheng, 19, Chinese/Asian **
 
 ![Arya Cheng](../images/arya-headshot.JPG)
 
-19, Chinese/Asian,
 Hometown: Hong Kong,
 Language background: English, Mandarin, Cantonese, studying French and Italian
 Bryn Mawr College Class of 2019, Anthropology & French Major
