@@ -122,5 +122,3 @@ Rutgers University Press (2011)
 
 ![swarthmore libraries logo](../images/logo-mccabe-web.png)
 ![Language Media Center Logo](../images/LMC2.png)
-
-<hr/>
