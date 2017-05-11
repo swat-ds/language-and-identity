@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: article
 permalink: /about/
 title: about
 image_banner: images/banner.jpg
