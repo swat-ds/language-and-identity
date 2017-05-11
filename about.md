@@ -25,7 +25,7 @@ Please contact <span class="rtl">ude.eromhtraws&#64;6samohtj</span> for more inf
 
 Students name their own identities.
 
-- **Arya Cheng, 19, Chinese/Asian **
+- **Arya Cheng, 19, Chinese/Asian**
 
 ![Arya Cheng](../images/arya-headshot.JPG)
 
