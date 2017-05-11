@@ -25,13 +25,16 @@ Please contact <span class="rtl">ude.eromhtraws&#64;6samohtj</span> for more inf
 
 Students name their own identities.
 
-- **Arya Cheng, 19, Chinese/Asian**
+<hr/>
 
-![Arya Cheng](../images/arya-headshot.JPG)
+- **Arya Cheng**
 
+19, Chinese/Asian
 Hometown: Hong Kong,
 Language background: English, Mandarin, Cantonese, studying French and Italian
 Bryn Mawr College Class of 2019, Anthropology & French Major
+
+![Arya Cheng](../images/arya-headshot.JPG)
 
 “As a result of this course, my conception of the African experience has become even more layered and complex. I have realized the loopholes in the historical representation of Africa and it has raised many more questions for me. I have also established that identities are never eternally fixed. In learning about AfroLatinx people, I have come to see identity categories as socioracial constructs.”
 
