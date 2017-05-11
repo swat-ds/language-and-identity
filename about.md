@@ -21,7 +21,7 @@ Please contact <span class="rtl">ude.eromhtraws&#64;6samohtj</span> for more inf
 
 *Language and Identity in the African Experience*, Spring 2017, Swarthmore College:
 
-- **Dr. Jamie A. Thomas** is Assistant Professor of Linguistics at Swarthmore College. Her forthcoming ethnography Zombies Speak Swahili is all about the undead, videogames, and why language matters. She teaches sociolinguistics, linguistic anthropology, and applied linguistics with attention to spoken discourse and visual and textual semiotics.
+   **Dr. Jamie A. Thomas** is Assistant Professor of Linguistics at Swarthmore College. Her forthcoming ethnography Zombies Speak Swahili is all about the undead, videogames, and why language matters. She teaches sociolinguistics, linguistic anthropology, and applied linguistics with attention to spoken discourse and visual and textual semiotics.   
 
 Students name their own identities.
 
