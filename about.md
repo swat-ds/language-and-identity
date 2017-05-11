@@ -74,8 +74,6 @@ Students name their own identities.
 
 *“My identity has gained more communicable meaning and significance over the course of this semester. I have always understood myself as existing in a liminal space identity but have a full/complete one as well. Engaging mostly with the narratives of other threshold people has brought me a long way. To understand that patterns of migration (and abduction) vary and change over time helps us to approach Blackness and Latin America with a dynamic in which we see that communities/families/interactions are often shaped by time and space.”*
 
-<hr/>
-
 
 *Not pictured: Nancy Sorto (student, Swarthmore College), a valuable member of our interviewing team.
 
