@@ -1,8 +1,8 @@
 ---
 image_teaser: images/corazon-thumb.jpg
 modified: '2017-05-03 13:23 -0400'
-author: group5
 layout: article
+soundcloud_id: 322222011
 published: true
 title: 'Episode 3: Beyond the Bounds of Race'
 ---

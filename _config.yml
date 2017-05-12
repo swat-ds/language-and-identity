@@ -5,8 +5,8 @@ description: Language and Identity in the African Experience from Kenya to Mexic
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url: http://ds.swarthmore.edu/language-and-identity
-# url: 
+# url: http://ds.swarthmore.edu/language-and-identity
+url: 
 feed:
   path: atom.xml
 audio: '../audio/'
@@ -55,15 +55,6 @@ prose:
         field:
           element: "hidden"
           value: "article"
-      - name: "author"
-        field:
-          element: "hidden"
-          value: "group5"
-      - name: "group_members"
-        field:
-          element: "text"
-          label: "Group members"
-          value: ""
       - name: "modified"
         field:
           element: "hidden"

@@ -1,8 +1,8 @@
 ---
 image_teaser: images/gallery-thumb.jpg
 modified: '2017-05-03 13:16 -0400'
-author: group5
 layout: article
+soundcloud_id: 322217230
 published: true
 title: 'Episode 2: In Between Black and Latinx'
 ---
