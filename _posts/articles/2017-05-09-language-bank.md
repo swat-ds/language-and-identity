@@ -3,7 +3,7 @@ modified: '2017-05-03 13:22 -0400'
 layout: article
 author: group5
 published: true
-title: Key Terms
+title: 'Language Bank: Key Terms'
 ---
 
 
