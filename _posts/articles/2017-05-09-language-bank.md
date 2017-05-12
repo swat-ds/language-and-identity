@@ -7,7 +7,7 @@ title: Language Bank
 ---
 
 
-The following is a bank of terms exploring language and identity in the African diasporic experience.
+The following is a bank of terms exploring language and identity in African Diasporic experience.
 
 - ***Arturo A. Schomburg Symposium***: Premiering in 1996, an annual conference  hosted at Taller Puertorriqueño is devoted to the discussion of <span class="soundcite" data-url="{{ site.audio }}Evelynne_the_erasure_issue_at_stake.mp3" data-start="00000" data-end="12000" data-plays="1"> African presence in Latinx cultural histories.</span>
 - ***Blanqueamiento & mejoramiento***: Translated directly as “whitening” and “improvement”, in a social and political Latin American context these terms mean whitening phenotypes through racial intermarriage and consequently achieving higher social status within the family lineage.
