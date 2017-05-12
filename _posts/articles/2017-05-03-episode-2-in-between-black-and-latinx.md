@@ -10,7 +10,7 @@ title: 'Episode 2: In Between Black and Latinx'
 
 #### Summary 
 
-In this episode, we share our reflections on the 21st Arturo A. Schomburg Symposium (themed "Sports and Blackness: Inclusion?") hosted at Taller Puertorriqueño (2600 N. 5th Street) on February 25, 2017. At the symposium, we were able to interview attendees who spoke to their experiences as Latinx people, with heritage spanning the Dominican Republic and Venezuela.
+**In this episode, we share our reflections on the 21st Arturo A. Schomburg Symposium (themed "Sports and Blackness: Inclusion?") hosted at Taller Puertorriqueño (2600 N. 5th Street) on February 25, 2017. At the symposium, we were able to interview attendees who spoke to their experiences as Latinx people, with heritage spanning the Dominican Republic and Venezuela.**
 In the format of a live discussion, we present excerpts from our interviews and contextualized analysis from our course readings on AfroLatinx language and identity. Our discussion illustrates how experiences of race, color, and language in the U.S., sometimes lead Spanish-speaking Blacks to choose between their Blackness and Latinness in everyday encounters, as well as in their understandings of self. 
 
 #### Questions to Keep in Mind
