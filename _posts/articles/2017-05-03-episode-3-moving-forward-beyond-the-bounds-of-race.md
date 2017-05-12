@@ -14,7 +14,7 @@ This episode presents excerpts from interviews with three North Philadelphia res
 
 #### Questions to Keep in Mind
 
-> How do we move from mestizaje and colorblindness and away from a “post-racial” theory? How does the study of transnational Blackness move us forward?
+> How do we move from away mestizaje, colorblindness, and “post-racial” theory? How does the study of transnational Blackness move us forward?
 
 > How does recognizing intersectionality move us forward beyond the fixed boundaries of racial identity? How do we visibilize afrolatinidad as an experience? 
 
@@ -24,9 +24,9 @@ This episode presents excerpts from interviews with three North Philadelphia res
 
 #### Further Context
 
-It seems that, in order to escape the threshold of *afrolatinidad* (Black Latinness), there needs to be a reversal of racialization so that the body cannot disallow heritage, space, or identity. We cannot rely on the compliance of those who benefit from the abjection and labor of black bodies in ending the perpetuation of anti-Black global narratives. I believe that the liberation of identity for diasporic peoples will come through the acknowledgement of Black presence and contribution through revitalizing historical narratives where there are erasures through not only academia and ethnography, but through individual cultural practice and embodiment.
+It seems that in order to escape the threshold of *afrolatinidad* (Black Latinness), there needs to be a reversal of racialization so that conceptions of heritage, space, or identity, will not solely hinge upon expectations of embodied phenotypes. In endeavoring to end the global perpetuation of anti-Black narratives, we cannot anticipate leadership from those who benefit most from the abjection and labor of Black bodies. Liberation from the fixity of identity for diasporic peoples will come through the acknowledgement of the Black presence in Latin America. Academia and (linguistic) ethnographic practice are already playing crucial roles in reversing erasures of the African contribution in Latin America by revitalizing historical narratives, and shifting interpersonal behaviors, and empowering the self-determination of marginalized and underrepresented communities. Through our seminar, we are also turning the lens of change inward, and learning through the stories and experiences of Black Latinx people how to better understand ourselves.
 
-My [Brandon] own case deals with the complexity around how there are many different ethnic expressions of Blackness, and I express more than one. As an American-born Nigerian-American, I express a Nigerian (or “African” as some might suggest) identity as well as an African-American identity that I taken on as a Black person living in the United States. <span class="soundcite" data-url="{{ site.audio }}Evelyne.mp3" data-start="529000" data-end="550000" data-plays="1"> My Blackness, therefore, is complex as well.</span> I don’t often experience instances in which I feel particularly excluded from either identity, but upon self-reflection, I cannot consider myself purely one or purely the other. I am a dynamic mixture of Black and Nigerian and African American, and every piece of that is essential to defining my whole identity.
+Within our project team and seminar group, Brandon's personal story illustrates the complexity of embodying and expressing multiple ethnic expressions of Blackness. and I express more than one. As an American-born Nigerian-American, I express a Nigerian (or “African” as some might suggest) identity as well as an African-American identity that I taken on as a Black person living in the United States. <span class="soundcite" data-url="{{ site.audio }}Evelyne.mp3" data-start="529000" data-end="550000" data-plays="1"> My Blackness, therefore, is complex as well.</span> I don’t often experience instances in which I feel particularly excluded from either identity, but upon self-reflection, I cannot consider myself purely one or purely the other. I am a dynamic mixture of Black and Nigerian and African American, and every piece of that is essential to defining my whole identity.
 
 #### Language Bank
 
