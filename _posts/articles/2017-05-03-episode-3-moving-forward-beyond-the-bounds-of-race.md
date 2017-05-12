@@ -14,9 +14,9 @@ This episode presents excerpts from interviews with three North Philadelphia res
 
 #### Questions to Keep in Mind
 
-> How do we move from away mestizaje, colorblindness, and “post-racial” theory? How does the study of transnational Blackness move us forward?
+> How do we move from away mestizaje, colorblindness, and 'post-racial' theory? How does the study of transnational Blackness move us forward?
 
-> How does recognizing intersectionality move us forward beyond the fixed boundaries of racial identity? How do we visibilize afrolatinidad as an experience? 
+> How does recognizing intersectionality move us forward beyond the fixed boundaries of racial identity? How do we visibilize _afrolatinidad_ as an experience? 
 
 #### Places to See
 
