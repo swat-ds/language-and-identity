@@ -2,7 +2,7 @@
 image_teaser: images/corazon-thumb.jpg
 modified: '2017-05-03 13:23 -0400'
 layout: article
-soundcloud_id: 322222011
+soundcloud_id: '322222011'
 published: true
 title: 'Episode 3: Beyond the Bounds of Race'
 ---
@@ -10,7 +10,7 @@ title: 'Episode 3: Beyond the Bounds of Race'
 
 #### Summary
 
-This episode presents excerpts from interviews with three North Philadelphia residents about ways in which we can preserve and recognize Black contributions to Latinx identity. In the format of a live discussion, we discuss what it means to move away from a “post-racial” theory that <span class="soundcite" data-url="{{ site.audio }}Rafael.mp3" data-start="1681000" data-end="1730000" data-plays="1"> invisibilizes identities </span>. The term *invisibilize* describes how institutionalized practices can persist in deprioritizing experiences of racial discrimination by popularizing ideas that racial mixedness and multiplicity do away with racism. Together, we explore how to shift our collective discourse towards recognizing *afrolatinidad* (Black Latinness) as a complete and distinct identity, rather than a category between Blackness and Latinidad. <span class="soundcite" data-url="{{ site.audio }}Rafael.mp3" data-start="1490000" data-end="1510000" data-plays="1">  Shifting </span> this discourse means destabilizing racist ideologies, and creating space for issues around discrimination and marginalization of groups of people who can claim AfroLatinx identity.
+**This episode presents excerpts from interviews with three North Philadelphia residents about ways in which we can preserve and recognize Black contributions to Latinx identity. In the format of a live discussion, we discuss what it means to move away from a “post-racial” theory that <span class="soundcite" data-url="{{ site.audio }}Rafael.mp3" data-start="1681000" data-end="1730000" data-plays="1"> invisibilizes identities </span>.** The term *invisibilize* describes how institutionalized practices can persist in deprioritizing experiences of racial discrimination by popularizing ideas that racial mixedness and multiplicity do away with racism. Together, we explore how to shift our collective discourse towards recognizing *afrolatinidad* (Black Latinness) as a complete and distinct identity, rather than a category between Blackness and Latinidad. <span class="soundcite" data-url="{{ site.audio }}Rafael.mp3" data-start="1490000" data-end="1510000" data-plays="1">  Shifting </span> this discourse means destabilizing racist ideologies, and creating space for issues around discrimination and marginalization of groups of people who can claim AfroLatinx identity.
 
 #### Questions to Keep in Mind
 
