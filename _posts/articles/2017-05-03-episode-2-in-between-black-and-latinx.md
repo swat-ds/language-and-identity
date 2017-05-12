@@ -5,6 +5,7 @@ layout: article
 soundcloud_id: 322217230
 published: true
 title: 'Episode 2: In Between Black and Latinx'
+soundcloud_id: '322217230'
 ---
 > “I battled it, battled it, battled it, until at some point I realized… that I could be Black and I could be Dominican.” - Angelo
 
