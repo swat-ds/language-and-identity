@@ -5,7 +5,6 @@ layout: article
 soundcloud_id: 322222011
 published: true
 title: 'Episode 3: Beyond the Bounds of Race'
-soundcloud_id: '322222011'
 ---
 ![Dinner with our guest from Taller Puertorriqueño, Carlos Pardo]({{site.url}}/images/restaurant.jpg)
 
