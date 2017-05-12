@@ -6,7 +6,7 @@ layout: article
 published: true
 title: 'Episode 3: Beyond the Bounds of Race'
 ---
-![Dinner with our guest from Taller Puertorriqueño, Carlos Pardo]({{site.baseurl}}/images/Episode%203%20HEADER%20IMAGE%20restaurant%20(1).jpg)
+![Dinner with our guest from Taller Puertorriqueño, Carlos Pardo]({{site.eurl}}/images/Episode%203%20HEADER%20IMAGE%20restaurant%20(1).jpg)
 
 #### Summary
 
