@@ -7,118 +7,34 @@ image_banner: images/banner.jpg
 
 ![group photo of class](../images/bio.jpg)
 
+*Taking a pause from our collaborative work together on campus at Swarthmore College in May 2017. (L to R) Sabea Evans, Richard Phillips, Brandon Ekweonu, Marissa Bredesen, Arya Cheng, Jamie A. Thomas.*
+
 <hr/>
 
-#### The Seminar
+#### Why a Podcast Series?
 
-How does language help us to map the movement of peoples over time and space? How are African languages defined and created? How is Africanness and Blackness encoded in the Spanish and English languages? This course in sociolinguistics invites a critical evaluation of intersections in language and identity in the African continent and the Diaspora. Focusing on eastern Africa and its connection with the Americas, we draw upon overlapping histories of local peoples, outsiders, missionaries, linguists, and others to understand the power of language in defining and creating experience. We will specifically trace the proto-Bantu origin of Swahili, and succeeding historical and contemporary movements of Swahili from Kenya to Mexico. Reflecting on our own lives, we also look to the formation of new communities and frontiers in language use including migration, language policy, social media, videogames.
+Language is the stuff of life. Everyday, we are constantly gauging the rhythm, warmth, speed, and tone of our conversational partners for clues to meaning. Often, what is said can be just as important as how it is delivered. 
+
+With its emphasis on audio, the podcast brings listeners closer to the multiple textures of voices, more than a traditional written report ever could. We can hear speakers as they want to be heard, and encounter, through their voices, the layered meanings, shared cultural values, and colloquial expressions that make up communities. We can also share the results of our project with community stakeholders, as a way of giving back to the community, and inviting further dialogue and feedback.
+
+A journalistic endeavor, this podcast series was a pedagogical tool for cultivating:
+
+- Engaged scholarship,
+- Field methods in participant observation and techniques of interviewing,
+- Critical thinking and analysis of a complex, extemporaneous data set,
+- Skills of communication, collaboration, and project management,
+- An ecology of digital humanities skills.
+
+Early in our weekly seminar, we digitally recorded audio interviews with Latinx artists, small business owners, students, and others, in visits to Taller Puertorriqueño, a cultural center located in North Philadelphia (2600 N. 5th Street). Afterwards, we reflected on these interviews and our interpersonal experiences with local residents by engaging in seminar discussions, and drafting individual, written analyses. Returning to these audio excerpts in further stages of post-production and textual editing, students opted to record their own live commentary, to report on what they learned in an informal and engaging manner. Pairing select excerpts from their community interviews with this live commentary, students developed a template for a 20-minute podcast episode, later incorporating scripted segments designed to tie each episode of the series together.
+
+Through this semester-long experience, students with no prior experience in producing digital audio learned how to use tools of hardware (Zoom audio recorders) and software (Garageband, Audacity) through workshops with media technologists. We also learned from digital humanities librarians how to professionally archive our audio, use tools for version control (Github) and content management (Prose.io), and layer sound onto text to produce interactive web content (SoundCite JS).
 
 Please contact <span class="rtl">ude.eromhtraws&#64;6samohtj</span> for more information about this online exhibit.
 
-<hr/>
+![group working in language resource center](../images/lrc-group.jpg)
 
-#### Contributors
+*Students collaborate in post-production editing of interview recordings at the Language Center on campus at Swarthmore College in April 2017. (L to R) Richard Phillips, Marissa Bredesen, and Brandon Ekweonu.*
 
-*Language and Identity in the African Experience*, Spring 2017, Swarthmore College:
+#### What’s With the ™ ?
 
-   **Dr. Jamie A. Thomas** is Assistant Professor of Linguistics at Swarthmore College. Her forthcoming ethnography Zombies Speak Swahili is all about the undead, videogames, and why language matters. She teaches sociolinguistics, linguistic anthropology, and applied linguistics with attention to spoken discourse and visual and textual semiotics.   
-
-Students name their own identities.
-
-![Arya Cheng](../images/arya-headshot.JPG)  
-
-   **Arya Cheng**  
-   19, Chinese/Asian  
-   Hometown: Hong Kong  
-   Language background: English, Mandarin, Cantonese, studying French and Italian Bryn Mawr College Class of 2019, Anthropology & French Major
-
-*“As a result of this course, my conception of the African experience has become even more layered and complex. I have realized the loopholes in the historical representation of Africa and it has raised many more questions for me. I have also established that identities are never eternally fixed. In learning about AfroLatinx people, I have come to see identity categories as socioracial constructs.”*
-
-<hr/>
-
-![Marissa Bredesen](../images/Marissa-headshot.jpg)
-
-   **Marissa Bredesen**  
-   20, White American  
-   Hometown: Neenah, WI  
-   Language background: Native English speaker, intermediate Spanish, studying Amharic Swarthmore College Class of 2019, Computer Science major, Black Studies minor, Linguistics minor  
-
-*“Identity is relational and has always been unbounded. I’m now considering my national identity much more, in the context of my racial and language identities. These are important intersectional factors. Also, the categories I ‘fit’ into in one space might not translate to another space. These categories continue to be contested across space and time. There is so much more resistance and detail in the cultural experience of Africans in the New World that is often overlooked in historical works that focus on European motives."*
-
-<hr/>
-
-   **Sabea Evans**  
-   20, Black Caribbean-American Woman  
-   Hometown: Bronx, NY  
-   Language Background: Native English speaker, student of French and Japanese Haverford College Class of 2018, Linguistics Major, Religion Minor, Concentration in Africana Studies  
-
-*“Identity is a sense of self that is comprised of claims to ‘place, space, and culture’. Throughout this course, I’ve come to an understanding that the spaces I inhabit or participate in, do affect the ways that I project my identity. I’m now more willing to question the ways I situate myself in relation to others, and also allow myself to claim certain experiences and subjectivities that I have not before. I’m also now really critical of the use of the word ‘identity’ as a blanket term to encompass multiple and complex concepts that may get flattened in certain contexts. My understandings of the African experience have expanded to not allowing myself to think of any geographically specific people with a monolithic life history.”*
-
-<hr/>
-
-   **Richard Phillips**  
-   21, White Man  
-   Hometown: Bordentown, NJ  
-   Language background: English, studies Swahili, studied Spanish, Haverford College Class of 2018, Computer Science Major  
-
-*“I now reimagine interviewing as a process, one in which it is impossible to remain unbiased. My identity has developed as I understand myself in relation to my peers. In some ways, I have reproduced my identity, but in others I have reconstructed my identity more deliberately in terms of my relation to race and my treatment of language.”*
-
-<hr/>
-
-![Marissa Bredesen](../images/Brandon-headshot.jpg)
-
-   **Brandon Ekweonu**  
-   19, Black Nigerian-American Man  
-   Hometown: Queens, NY  
-   Language background: English, Intermediate-level Spanish Swarthmore College, Class of 2020, Black Studies concentration  
-
-*“My identity has gained more communicable meaning and significance over the course of this semester. I have always understood myself as existing in a liminal space identity but have a full/complete one as well. Engaging mostly with the narratives of other threshold people has brought me a long way. To understand that patterns of migration (and abduction) vary and change over time helps us to approach Blackness and Latin America with a dynamic in which we see that communities/families/interactions are often shaped by time and space.”*
-
-
-*Not pictured: Nancy Sorto (student, Swarthmore College), a valuable member of our interviewing team.
-
-
-Special thanks to Nabil Kashyap and Roberto Vargas of Swarthmore College Libraries and John Word of the Language and Media Center
-
-<hr/>
-
-#### Bibliography – Further Reading
-Afro-Mexicans: Discourse of Race and Identity in the African Diaspora
-Chege Githiora
-Africo World Press, Inc.  (2008)
-
-Chocolate and Corn Flour: History, Race, and Place in the Making of “Black” Mexico
-Laura A. Lewis
-Duke University Press (2012)
-
-Exposing Prejudice: Puerto Rican Experiences of Language, Race, and Class 
-Bonnie Urciuoli
-Westview Press ( 1998)
-
-“Language, Identity, and the Ownership of English”
-Bonny Norton 
-TESOL Quarterly, Vol. 31, No. 3, Language and Identity 
-Teachers of English to Speakers of Other Languages, Inc. (1997)
-
-“Latinegras: Desired Women  - Undesirable Mothers, Daughters, Sisters, and Wives” 
-Marta I. Cruz-Janzen
-Frontiers: A Journal of Women Studies Vol. 22, No. 3, Women's West 
-University of Nebraska Press (2001)
-
-““Ni de qui, ni de allá”: Garífuna Subjectivities and the Politics of Diasporic Belonging”
-Paul Joseph López Oro
-Chapter 3 of  Afro-Latin@s in Movement: Critical Approaches to Blackness and Transnationalism in the Americas 
-Palgrave Macmillan (2016)
-
-Raciolinguistics: How Language Shapes Our Ideas About Race 
-H. Samy Alim, John R. Rickford, and Arnetha F. Ball
-Oxford University Press (2016)
-
-“The Race Problem in Latin America” 
-José Vasconcelos 
-Chapter 3 in The Prophet of Race
-Rutgers University Press (2011)
-
-
-![swarthmore libraries logo](../images/logo-mccabe-web.png)
-![Language Media Center Logo](../images/LMC2.png)
+Across seminar discussions of what the title of our project should be, students eventually settled on *AfroLatinx Podcast™* , a moniker that creatively incorporates ™ as an element of contemporary Internet and spoken slang. When a speaker adds these two letters after a phrase, they implicate the notion of trademarking, and in effect, produces a neologism that calls attention to the initial phrase and amplifies the speaker’s ownership of their innovation. Here, we celebrate our innovative collaboration in developing this digital humanities project with support from institutional partners in the Tri-Colleges, and partners in the Philadelphia community.
