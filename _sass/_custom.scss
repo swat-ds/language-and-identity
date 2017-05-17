@@ -115,6 +115,10 @@ a.footnote {
     font-family: $heading-font;
   }
 
+  hr {
+    margin: 0 0 2em 0;
+  }
+
 }
 
 /*
@@ -122,16 +126,29 @@ modified css for post-grid images and text
 */
 
 div.tiles {
+
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
   display: flex;
+
+  -webkit-flex-wrap: wrap;
+  -moz-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  justify-content: center;
+  
+  -webkit-justify-content: space-between;
+  -moz-justify-content: space-between;
+  -ms-justify-content: space-between;
+  justify-content: space-between;
+  
   padding: 1em 0 2em 0;
 }
 
 article.tile {
   width: 250px;
   margin: unset;
-  margin-right: 1em;
 }
 
 article.tile a.post-teaser {
