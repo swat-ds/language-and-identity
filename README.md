@@ -11,3 +11,4 @@ Collaborative Jekyll site based on Minimal Mistakes Skinny Bones Theme. Swarthmo
 * Data files for easier customization of the site navigation/footer and for supporting multiple authors.
 * Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
 * And more.
+testing hook
